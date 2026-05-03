@@ -8,7 +8,7 @@ Welcome to the most powerful terminal for Android! Use these commands to manage 
 ### 🛠️ Basic Commands
 * `/help` - Show all commands.
 * `/clear` - Clean the screen.
-* `/sys` - Show system info.
+* `/support` - subscribe owner.
 
 ### 📦 Package Manager
 * `/pkg install git` - Install the real Git engine.
