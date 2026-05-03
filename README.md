@@ -12,10 +12,10 @@ Welcome to the most powerful terminal for Android! Use these commands to manage 
 
 ### 📦 Package Manager
 * `/pkg install git` - Install the real Git engine.
-* `/pkg install net` - Install networking tools.
+* `/pkg install net` - Install networking tools. (coming soon) 
 
 ### 🌐 Real Git Features
-* `/git clone [URL]` - Clone real code to your phone!
+* `/git clone [URL]` - Clone real code to your phone!(coming soon) 
 
 ### 💎 Premium
-* `/premium` - Support the dev and remove ads.
+* `/premium` - Support the dev and remove ads.(coming soon) 
